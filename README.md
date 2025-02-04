@@ -85,4 +85,4 @@ This project is licensed under the **MagurexMIT License**.
 
 ---
 
-🔹 Developed by **[Farhan]** | 📧 Contact: [farhanxmagure]
+🔹 Developed by **[Farhan]** | 📧 Contact: [farhan.k@magureinc.com]
